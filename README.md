@@ -1,1 +1,1 @@
-# python_gui_projects
+# Snake game
